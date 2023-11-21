@@ -24,7 +24,7 @@ You can read my blog at **[dave.engineer](https://dave.engineer/)**, which cover
   <img src="https://github-readme-stats.vercel.app/api?username=dave1010&show_icons=true" />
 </picture>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=dave1010&&no-bg=true&&rank=SSS,SS,S,AAA,AA,A&margin-w=55&margin-h=5&column=2)
+![Trophies](https://github-profile-trophy.vercel.app/?username=dave1010&&no-bg=true&&rank=SSS,SS,S,AAA,AA,A&margin-w=5&margin-h=5&column=2)
 
 </td><td valign="top" width="34%">
 
