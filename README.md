@@ -9,6 +9,7 @@ I'm a principal engineer at [Passenger](https://passenger.tech/). I have a backg
 You can read my blog at **[dave.engineer](https://dave.engineer/)**, which covers topics like cognitive science, AI, leadership and coding.
 
 - [![dave.engineer](https://img.shields.io/badge/dave-engineer-blue)](https://dave.engineer/)
+- [![Today I Learned](https://img.shields.io/badge/TIL-Today_I_Learned-blue)](https://til.dave.engineer/)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dave_Hulbert-blue)](https://www.linkedin.com/in/dave1010/)
 - [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/dave1010)](https://x.com/dave1010)
 
@@ -30,20 +31,16 @@ You can read my blog at **[dave.engineer](https://dave.engineer/)**, which cover
 
 ### Featured projects
 
-#### [📦 Pandora](https://github.com/dave1010/pandora)
-
+**[📦 Pandora](https://github.com/dave1010/pandora)**  
 Powerful coding companion ChatGPT plugin and API: edit local files, run commands, manage Docker.
 
-#### [📎🟢 Clipea](https://github.com/dave1010/clipea)
-
+**[📎🟢 Clipea](https://github.com/dave1010/clipea)**  
 Like Clippy but for the CLI. A blazing fast AI helper for your command line.
 
-#### [🌳 Tree of Thought Prompting](https://github.com/dave1010/tree-of-thought-prompting)
-
+**[🌳 Tree of Thought Prompting](https://github.com/dave1010/tree-of-thought-prompting)**  
 Experiments and a write up of a new prompting technique for Large Language Models like ChatGPT.
 
-#### [🤖 Hubcap](https://github.com/dave1010/hubcap)
-
+**[🤖 Hubcap](https://github.com/dave1010/hubcap)**  
 AI agent in just 25 lines of code. It can read your code and fix your bugs or make API requests and process results, all autonomously.
 
 #### Other fun things I've made
